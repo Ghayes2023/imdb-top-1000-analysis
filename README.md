@@ -4,7 +4,7 @@ This project analyzes the IMDb Top 1000 dataset using SQL, Python, and Power BI 
 
 ## Tools Used
 - SQL
-- Python (pandas, matplotlib)
+- Python
 - Power BI
 
 ## Project Components
