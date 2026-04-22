@@ -19,9 +19,8 @@ genres, and release years using SQL, Python, and Power BI.
 - Less common genre combinations often outperform popular genres in average rating
 
 ## Files
-- `IMDB Top 1000 Exploratory Data Analysis (SQL + Python).pdf` - Full analysis
-- `IMDb Top 1000 Movie Analysis Dashboard.pbix` - Power BI dashboard
-- `dashboard-preview.png` - Dashboard screenshot
+- [`IMDB Top 1000 Exploratory Data Analysis (SQL + Python).pdf`](IMDB%20Top%201000%20Exploratory%20Data%20Analysis%20(SQL%20%2B%20Python).pdf) - Full analysis
+- [`IMDb Top 1000 Movie Analysis Dashboard.pbix`](IMDb%20Top%201000%20Movie%20Analysis%20Dashboard.pbix) - Power BI dashboard
 
 ## Dashboard Preview
 ![Dashboard](dashboard-preview.png)
