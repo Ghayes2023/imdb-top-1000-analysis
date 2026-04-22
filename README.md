@@ -9,9 +9,9 @@ genres, and release years using SQL, Python, and Power BI.
 - **Fields:** Title, Genre, IMDB Rating, Director, Gross Revenue, Release Year, Runtime
 
 ## Tools Used
-- **SQL** — Data cleaning and exploratory analysis
-- **Python** — Statistical analysis and additional exploration
-- **Power BI** — Interactive dashboard with filters and KPIs
+- **SQL** - Data cleaning and exploratory analysis
+- **Python** - Statistical analysis and additional exploration
+- **Power BI** - Interactive dashboard with filters and KPIs
 
 ## Key Insights
 - Drama-based genre combinations tend to achieve the highest average ratings
@@ -19,9 +19,9 @@ genres, and release years using SQL, Python, and Power BI.
 - Less common genre combinations often outperform popular genres in average rating
 
 ## Files
-- `IMDB Top 1000 Exploratory Data Analysis (SQL + Python).pdf` — Full analysis
-- `IMDb Top 1000 Movie Analysis Dashboard.pbix` — Power BI dashboard
-- `dashboard-preview.png` — Dashboard screenshot
+- `IMDB Top 1000 Exploratory Data Analysis (SQL + Python).pdf` - Full analysis
+- `IMDb Top 1000 Movie Analysis Dashboard.pbix` - Power BI dashboard
+- `dashboard-preview.png` - Dashboard screenshot
 
 ## Dashboard Preview
 ![Dashboard](dashboard-preview.png)
